@@ -1,3 +1,5 @@
+npm install
+npm run build
 import { u256 } from '@btc-vision/as-bignum/assembly';
 import {
     Address,
